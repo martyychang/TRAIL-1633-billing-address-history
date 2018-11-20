@@ -26,7 +26,8 @@ The expected outcomes are as follows.
   in the scratch org
 
 Interestingly enough, if the **Contact.object-meta.xml** file is deleted
-from the project directory, the errors go away.
+from the project directory, the errors go away. The errors also disappear
+if the `enableHistory` value is changed to "false" in the same file.
 
 ## Resources
 
