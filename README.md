@@ -25,6 +25,9 @@ The expected outcomes are as follows.
 * Changes to Billing Address and Account Name are tracked on the Account object
   in the scratch org
 
+Interestingly enough, if the **Contact.object-meta.xml** file is deleted
+from the project directory, the errors go away.
+
 ## Resources
 
 * "[Push Source to the Scratch Org][1]." _Salesforce DX Developer Guide_.
